@@ -4,7 +4,7 @@ Hi 👋 My name is Mateus Guedini
 Full Stack Developer
 --------------------
 
-Recém formado fullstack developer pela Le Wagon, fiz vários projetos completos em Ruby on Rails juntamente com meus colegas de classe, muito ansioso por uma primeira oportunidade nesta área e assim desenvolver ainda mais minhas habilidades. Sou motivado por aprender e organizado, tenho facilidade em trabalhar em equipe.
+Recently graduated fullstack developer at Le Wagon, I did several complete projects in Ruby on Rails together with my classmates, very excited for a first opportunity in this area and thus developing my skills even more. I am motivated to learn, organized and I find it easy to work in a team.
 
 *   🌍  I'm based in Araras-SP
 *   ✉️  You can contact me at [guedinimateus@gmail.com](mailto:guedinimateus@gmail.com)
